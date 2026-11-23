@@ -1,0 +1,1 @@
+print("de programeerfout afhandelen of een goede type toevoegen aan de except:")
